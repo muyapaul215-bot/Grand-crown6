@@ -8,8 +8,8 @@ Grand Crown is a Node.js platform with a customer site and a mobile-responsive a
 
 ## Admin login
 Default local credentials:
-- Username: `admin`
-- Password: `change-me-now`
+- Username: `admin01`
+- Password: `Loveismusic97@`
 
 For deployment, set `ADMIN_USER` and `ADMIN_PASS` environment variables and change the default credentials.
 
